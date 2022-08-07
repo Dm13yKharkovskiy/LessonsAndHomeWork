@@ -1,8 +1,8 @@
 package alishevbasic.lesson28_packages;
 
-import alishev.basic.lesson28_packages.forest.Sguirell;
-import alishev.basic.lesson28_packages.forest.Tree;
-import alishev.basic.lesson28_packages.forest.something.SomeClass;
+import alishevbasic.lesson28_packages.forest.Sguirell;
+import alishevbasic.lesson28_packages.forest.Tree;
+import alishevbasic.lesson28_packages.forest.something.SomeClass;
 
 import java.util.Scanner;
 
