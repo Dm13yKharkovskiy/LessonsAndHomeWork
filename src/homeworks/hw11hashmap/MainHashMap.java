@@ -16,5 +16,6 @@ public class MainHashMap {
         System.out.println(myHashMap);
         myHashMap.put(1,"Rob");
         System.out.println(myHashMap);
+        System.out.println(myHashMap.getSize());
     }
 }
